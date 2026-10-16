@@ -101,6 +101,15 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 10 more language builds: 中文 [nano-banana-2-lite-api-cn](https://github.com/iur08dy-c157/nano-banana-2-lite-api-cn) · Deutsch [nano-banana-2-lite-api-de](https://github.com/k3idrzqs5wbuf/nano-banana-2-lite-api-de) · Español [nano-banana-2-lite-api-es](https://github.com/chz6q2o7d/nano-banana-2-lite-api-es) · Français [nano-banana-2-lite-api-fr](https://github.com/fz350t/nano-banana-2-lite-api-fr) · Relay/gateway [nano-banana-2-lite-api-gateway](https://github.com/tjk4cf/nano-banana-2-lite-api-gateway) · Bahasa [nano-banana-2-lite-api-id](https://github.com/dz2oqx/nano-banana-2-lite-api-id) · 日本語 [nano-banana-2-lite-api-ja](https://github.com/yv-kf9hls0kr/nano-banana-2-lite-api-ja) · 한국어 [nano-banana-2-lite-api-ko](https://github.com/rguc5r0zdtlm/nano-banana-2-lite-api-ko) · Português [nano-banana-2-lite-api-pt](https://github.com/mxtkvc6u/nano-banana-2-lite-api-pt) · Русский [nano-banana-2-lite-api-ru](https://github.com/nkdje/nano-banana-2-lite-api-ru)
+- **Topic hubs** — every build of this model, all languages: [nano-banana-2-lite](https://github.com/topics/nano-banana-2-lite) · [nano-banana-2-lite-api](https://github.com/topics/nano-banana-2-lite-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
